@@ -1,0 +1,635 @@
+2021-11-10 15:11:45,122 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 15:11:45,122 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:11:45,123 excel_read.py excel_runner ERROR 运行异常：__init__() missing 1 required positional argument: 'log'
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\excel_driver\excel_read.py", line 61, in excel_runner
+    keys = WebKey(**data)
+TypeError: __init__() missing 1 required positional argument: 'log'
+2021-11-10 15:15:00,853 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 15:15:00,853 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:15:02,053 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:15:02,058 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:15:06,501 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:15:06,501 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:15:06,501 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:15:06,597 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:15:06,597 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:15:06,598 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:15:06,658 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:15:06,659 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:15:06,659 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:15:06,706 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:15:09,718 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:15:09,718 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:15:09,764 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:15:12,778 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 15:15:12,778 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 15:15:14,917 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-10 15:15:14,918 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:15:16,147 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:15:16,147 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:15:20,642 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:15:20,642 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:15:20,642 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:15:20,738 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:15:20,738 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:15:20,739 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:15:20,802 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:15:20,802 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:15:20,803 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:15:20,849 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:15:23,857 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:15:23,857 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:15:24,334 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 84, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-10 15:15:24,355 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:15:27,361 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 15:15:27,361 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 15:22:48,425 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 15:22:48,425 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:22:49,618 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:22:49,618 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:22:54,015 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:22:54,015 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:22:54,016 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:22:54,160 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:22:54,160 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:22:54,160 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:22:54,225 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:22:54,225 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:22:54,225 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:22:54,278 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:22:57,292 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:22:57,292 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:22:57,316 excel_read.py excel_runner ERROR 运行异常：[Errno 13] Permission denied: './data/cases.xlsx'
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\excel_driver\excel_read.py", line 75, in excel_runner
+    excel.save('./data/cases.xlsx')
+  File "E:\Python_Project\venv\lib\site-packages\openpyxl\workbook\workbook.py", line 407, in save
+    save_workbook(self, filename)
+  File "E:\Python_Project\venv\lib\site-packages\openpyxl\writer\excel.py", line 291, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "E:\Python37\lib\zipfile.py", line 1240, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: './data/cases.xlsx'
+2021-11-10 15:24:03,429 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 15:24:03,429 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:24:04,569 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:24:04,569 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:24:08,941 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:24:08,941 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:24:08,941 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:24:09,036 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:24:09,036 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:24:09,036 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:24:09,100 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:24:09,100 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:24:09,100 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:24:09,149 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:24:12,156 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:24:12,156 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:24:12,200 excel_read.py excel_runner ERROR 运行异常：[Errno 13] Permission denied: './data/cases.xlsx'
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\excel_driver\excel_read.py", line 75, in excel_runner
+    excel.save('./data/cases.xlsx')
+  File "E:\Python_Project\venv\lib\site-packages\openpyxl\workbook\workbook.py", line 407, in save
+    save_workbook(self, filename)
+  File "E:\Python_Project\venv\lib\site-packages\openpyxl\writer\excel.py", line 291, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "E:\Python37\lib\zipfile.py", line 1240, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: './data/cases.xlsx'
+2021-11-10 15:24:36,885 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 15:24:36,885 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:24:38,108 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:24:38,108 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:24:42,443 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:24:42,443 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:24:42,443 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:24:42,535 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:24:42,535 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:24:42,535 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:24:42,597 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:24:42,597 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:24:42,597 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:24:42,644 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:24:45,652 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:24:45,652 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:24:45,696 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:24:48,700 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 15:24:48,700 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 15:24:50,872 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-10 15:24:50,873 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:24:52,071 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:24:52,071 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:24:57,285 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:24:57,285 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:24:57,285 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:24:57,445 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:24:57,445 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:24:57,445 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:24:57,509 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:24:57,509 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:24:57,509 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:24:57,556 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:25:00,559 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:25:00,559 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:25:00,584 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 84, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-10 15:25:00,603 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:25:03,607 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 15:25:03,607 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 15:27:12,491 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 15:27:12,491 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:27:13,649 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:27:13,649 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:27:17,651 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:27:17,651 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:27:17,651 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:27:17,744 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:27:17,744 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:27:17,744 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:27:17,812 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:27:17,812 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:27:17,812 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:27:17,869 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:27:20,871 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:27:20,871 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:27:20,917 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:27:23,929 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 15:27:23,929 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 15:27:26,035 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-10 15:27:26,035 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:27:27,172 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:27:27,172 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:27:31,595 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:27:31,595 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:27:31,596 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:27:31,717 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:27:31,717 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:27:31,717 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:27:31,803 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:27:31,804 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:27:31,804 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:27:31,876 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:27:34,887 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:27:34,887 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:27:34,913 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 84, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-10 15:27:34,944 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:27:37,949 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 15:27:37,949 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 15:32:41,595 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 15:32:41,596 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:32:42,749 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:32:42,749 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:32:46,822 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:32:46,822 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:32:46,822 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:32:46,919 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:32:46,919 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:32:46,919 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:32:46,983 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:32:46,983 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:32:46,983 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:32:47,029 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:32:50,041 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:32:50,041 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:32:50,128 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:32:53,137 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 15:32:53,137 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 15:32:55,237 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-10 15:32:55,238 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:32:56,445 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:32:56,445 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:33:00,993 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:33:00,994 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:33:00,994 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:33:01,096 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:33:01,096 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:33:01,096 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:33:01,162 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:33:01,162 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:33:01,162 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:33:01,212 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:33:04,213 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:33:04,213 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:33:04,238 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 84, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-10 15:33:04,260 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:33:07,273 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 15:33:07,273 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 15:35:12,154 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 15:35:12,155 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:35:13,419 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:35:13,419 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:35:19,551 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:35:19,551 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:35:19,551 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:35:19,641 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:35:19,641 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:35:19,641 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:35:19,705 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:35:19,705 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:35:19,705 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:35:19,750 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:35:22,762 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:35:22,762 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:35:23,925 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:35:26,934 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 15:35:26,934 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 15:35:29,873 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-10 15:35:29,874 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 15:35:31,036 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 15:35:31,036 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 15:35:37,112 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 15:35:37,112 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 15:35:37,112 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 15:35:37,205 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 15:35:37,205 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 15:35:37,205 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 15:35:37,271 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 15:35:37,271 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:35:37,271 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 15:35:37,316 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:35:40,323 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 15:35:40,323 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 15:35:40,349 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 84, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-10 15:35:40,373 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 15:35:43,386 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 15:35:43,386 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:08:46,796 frame.py <module> INFO 文件类型错误：__init__.py
+2021-11-10 16:14:20,774 frame.py <module> INFO 文件类型错误：__init__.py
+2021-11-10 16:14:54,599 frame.py <module> INFO 文件类型错误：__init__.py
+2021-11-10 16:16:06,265 frame.py <module> INFO 文件类型错误：__init__.py
+2021-11-10 16:16:29,256 frame.py <module> INFO 文件类型错误：__init__.py
+2021-11-10 16:24:29,270 frame.py <module> INFO 文件类型错误：__init__.py
+2021-11-10 16:24:29,292 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 16:24:29,292 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:24:30,493 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:24:30,493 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:24:35,059 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:24:35,060 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:24:35,060 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:24:35,199 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:24:35,200 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:24:35,200 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:24:35,269 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:24:35,269 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:24:35,269 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:24:35,324 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:24:38,337 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:24:38,337 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:24:38,394 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:24:41,398 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:24:41,398 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:24:43,581 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-10 16:24:43,582 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:24:44,782 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:24:44,783 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:24:49,404 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:24:49,404 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:24:49,404 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:24:49,505 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:24:49,505 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:24:49,506 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:24:49,569 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:24:49,569 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:24:49,570 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:24:49,626 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:24:52,636 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:24:52,636 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:24:52,678 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 84, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-10 16:24:52,696 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:24:55,704 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:24:55,704 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:24:57,890 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 16:24:57,890 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:24:59,068 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:24:59,069 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:25:03,629 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:25:03,629 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:25:03,629 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:25:03,735 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:25:03,735 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:25:03,735 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:25:03,798 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:25:03,798 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:25:03,798 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:25:03,849 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:25:06,857 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:25:06,857 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:25:06,899 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:25:09,905 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:25:09,905 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:25:12,072 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-10 16:25:12,073 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:25:13,241 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:25:13,242 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:25:17,239 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:25:17,239 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:25:17,239 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:25:17,288 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:25:17,288 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:25:17,288 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:25:17,340 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:25:17,340 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:25:17,340 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:25:17,394 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:25:20,404 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:25:20,404 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:25:20,430 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 84, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-10 16:25:20,452 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:25:23,461 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:25:23,461 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:29:59,883 frame.py <module> INFO 文件类型错误：__init__.py
+2021-11-10 16:29:59,883 frame.py <module> INFO 执行./data/cases.xlsx测试用例
+2021-11-10 16:29:59,909 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 16:29:59,910 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:30:01,070 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:30:01,070 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:30:05,768 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:30:05,768 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:30:05,768 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:30:05,864 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:30:05,865 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:30:05,865 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:30:05,931 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:30:05,932 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:30:05,932 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:30:05,982 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:30:08,996 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:30:08,996 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:30:09,036 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:30:12,042 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:30:12,042 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:30:14,211 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-10 16:30:14,211 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:30:15,413 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:30:15,413 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:30:20,050 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:30:20,050 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:30:20,050 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:30:20,140 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:30:20,140 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:30:20,140 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:30:20,208 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:30:20,208 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:30:20,208 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:30:20,266 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:30:23,275 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:30:23,275 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:30:23,300 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 84, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-10 16:30:23,318 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:30:26,324 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:30:26,324 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:30:28,434 frame.py <module> INFO 执行./data/cases2.xlsx测试用例
+2021-11-10 16:30:28,462 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 16:30:28,462 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:30:29,633 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:30:29,633 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:30:33,961 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:30:33,961 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:30:33,961 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:30:34,066 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:30:34,067 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:30:34,067 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:30:34,130 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:30:34,130 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:30:34,130 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:30:34,177 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:30:37,180 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:30:37,180 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:30:37,223 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:30:40,230 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:30:40,230 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:30:42,349 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-10 16:30:42,350 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:30:43,565 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:30:43,566 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:30:48,273 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:30:48,273 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:30:48,273 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:30:48,366 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:30:48,366 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:30:48,366 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:30:48,435 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:30:48,435 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:30:48,436 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:30:48,482 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:30:51,492 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:30:51,492 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:30:51,519 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 84, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-10 16:30:51,537 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:30:54,546 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:30:54,546 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:57:34,002 frame.py <module> INFO 文件类型错误：__init__.py
+2021-11-10 16:57:34,002 frame.py <module> INFO 执行./data/cases.xlsx测试用例
+2021-11-10 16:57:34,019 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 16:57:34,019 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:57:35,305 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:57:35,305 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:57:41,219 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:57:41,220 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:57:41,220 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:57:41,358 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:57:41,358 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:57:41,358 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:57:41,425 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:57:41,425 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:57:41,425 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:57:41,476 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:57:44,479 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:57:44,479 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:57:44,520 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:57:47,526 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:57:47,526 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:57:49,629 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-10 16:57:49,630 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:57:50,825 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:57:50,825 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:57:55,023 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:57:55,023 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:57:55,023 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:57:55,072 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:57:55,072 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:57:55,072 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:57:55,128 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:57:55,129 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:57:55,129 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:57:55,177 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:57:58,182 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:57:58,182 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:57:58,206 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 84, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-10 16:57:58,224 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:58:01,232 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:58:01,232 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:58:03,337 frame.py <module> INFO 执行./data/cases2.xlsx测试用例
+2021-11-10 16:58:03,378 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-10 16:58:03,379 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:58:04,521 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:58:04,521 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:58:08,740 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:58:08,740 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:58:08,741 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:58:08,807 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:58:08,807 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:58:08,807 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:58:08,865 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:58:08,865 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:58:08,865 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:58:08,915 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:58:11,926 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:58:11,926 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:58:11,970 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:58:14,978 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:58:14,979 Web_Keys.py quit INFO 退出浏览器
+2021-11-10 16:58:17,117 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-10 16:58:17,117 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-10 16:58:18,319 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-10 16:58:18,319 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-10 16:58:22,717 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-10 16:58:22,717 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-10 16:58:22,717 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-10 16:58:22,766 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-10 16:58:22,766 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-10 16:58:22,766 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-10 16:58:22,820 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-10 16:58:22,820 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:58:22,821 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-10 16:58:22,870 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:58:25,885 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-10 16:58:25,885 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-10 16:58:25,924 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 84, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-10 16:58:25,948 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-10 16:58:28,948 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-10 16:58:28,948 Web_Keys.py quit INFO 退出浏览器
+2021-11-13 15:56:16,610 frame.py <module> INFO 文件类型错误：__init__.py
+2021-11-13 15:56:16,610 frame.py <module> INFO 执行./data/cases.xlsx测试用例
+2021-11-13 15:56:16,628 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-13 15:56:16,628 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-13 15:56:18,092 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-13 15:56:18,092 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-13 15:56:26,217 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-13 15:56:26,217 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-13 15:56:26,217 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-13 15:56:26,306 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-13 15:56:26,307 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-13 15:56:26,307 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-13 15:56:26,368 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-13 15:56:26,369 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-13 15:56:26,369 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-13 15:56:26,418 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-13 15:56:29,430 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-13 15:56:29,430 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-13 15:56:29,493 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-13 15:56:32,495 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-13 15:56:32,495 Web_Keys.py quit INFO 退出浏览器
+2021-11-13 15:56:34,617 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-13 15:56:34,618 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-13 15:56:36,015 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-13 15:56:36,015 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-13 15:56:42,159 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-13 15:56:42,160 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-13 15:56:42,160 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-13 15:56:42,329 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-13 15:56:42,329 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-13 15:56:42,330 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-13 15:56:42,396 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-13 15:56:42,396 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-13 15:56:42,397 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-13 15:56:42,443 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-13 15:56:45,455 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-13 15:56:45,455 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-13 15:56:45,517 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 100, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-13 15:56:45,558 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-13 15:56:48,559 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-13 15:56:48,559 Web_Keys.py quit INFO 退出浏览器
+2021-11-13 15:56:51,040 frame.py <module> INFO 执行./data/cases2.xlsx测试用例
+2021-11-13 15:56:51,090 excel_read.py excel_runner INFO ----------Sheet1----------
+2021-11-13 15:56:51,091 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-13 15:56:52,608 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-13 15:56:52,609 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-13 15:57:00,605 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-13 15:57:00,606 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-13 15:57:00,606 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-13 15:57:00,658 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-13 15:57:00,658 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-13 15:57:00,658 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-13 15:57:00,716 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-13 15:57:00,716 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-13 15:57:00,716 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-13 15:57:00,769 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-13 15:57:03,773 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-13 15:57:03,773 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-13 15:57:04,668 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-13 15:57:07,677 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-13 15:57:07,677 Web_Keys.py quit INFO 退出浏览器
+2021-11-13 15:57:10,725 excel_read.py excel_runner INFO ----------Sheet2----------
+2021-11-13 15:57:10,726 excel_read.py excel_runner INFO 正在执行：创建Chrome浏览器
+2021-11-13 15:57:12,164 excel_read.py excel_runner INFO 正在执行：访问链接
+2021-11-13 15:57:12,164 Web_Keys.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-13 15:57:16,725 excel_read.py excel_runner INFO 正在执行：输入用户名
+2021-11-13 15:57:16,725 Web_Keys.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-13 15:57:16,725 Web_Keys.py location INFO 这是name定位,定位元素accounts
+2021-11-13 15:57:16,779 excel_read.py excel_runner INFO 正在执行：输入密码
+2021-11-13 15:57:16,779 Web_Keys.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-13 15:57:16,780 Web_Keys.py location INFO 这是name定位,定位元素pwd
+2021-11-13 15:57:16,840 excel_read.py excel_runner INFO 正在执行：点击登录
+2021-11-13 15:57:16,840 Web_Keys.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-13 15:57:16,840 Web_Keys.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-13 15:57:16,900 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-13 15:57:19,912 excel_read.py excel_runner INFO 正在执行：校验是否存在退出文本
+2021-11-13 15:57:19,912 Web_Keys.py location INFO 这是link text定位,定位元素退出
+2021-11-13 15:57:19,959 Web_Keys.py assert_text ERROR 断言失败，预期结果为：哈哈，实际结果为：退出
+Traceback (most recent call last):
+  File "E:\Python_Project\ui_frame\ui_keys\Web_Keys.py", line 100, in assert_text
+    assert expect == reality, '断言失败，实际结果为：{}'.format(reality)
+AssertionError: 断言失败，实际结果为：退出
+2021-11-13 15:57:19,984 excel_read.py excel_runner INFO 正在执行：强制等待
+2021-11-13 15:57:22,987 excel_read.py excel_runner INFO 正在执行：退出浏览器
+2021-11-13 15:57:22,987 Web_Keys.py quit INFO 退出浏览器

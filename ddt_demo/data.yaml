@@ -1,0 +1,19 @@
+#字典类型写法，注意：冒号后加空格
+-
+  url: 'https://www.baidu.com/'
+  input:
+    name: id
+    value: kw
+    txt: 电脑
+  click:
+    name: id
+    value: su
+-
+  url: 'https://www.baidu.com/'
+  input:
+    name: id
+    value: kw
+    txt: 手机
+  click:
+    name: id
+    value: su

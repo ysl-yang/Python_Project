@@ -1,0 +1,181 @@
+2021-11-09 15:47:39,075 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 15:47:48,228 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 15:47:48,228 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 15:47:48,335 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 15:47:48,335 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 15:47:48,426 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 15:47:48,426 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 15:47:51,512 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 15:47:54,652 Web_Key_demo1.py quit INFO 退出浏览器
+2021-11-09 16:44:30,790 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 16:44:35,050 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 16:44:35,050 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 16:44:35,145 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 16:44:35,145 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 16:44:35,212 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 16:44:35,212 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 16:44:38,266 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 16:44:41,304 Web_Key_demo1.py quit INFO 退出浏览器
+2021-11-09 16:48:43,205 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 16:48:50,866 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 16:48:50,866 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 16:48:51,019 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 16:48:51,019 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 16:48:51,087 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 16:48:51,087 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 16:48:54,144 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 16:48:57,448 Web_Key_demo1.py quit INFO 退出浏览器
+2021-11-09 17:01:52,920 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 17:01:57,425 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 17:01:57,425 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 17:01:57,523 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 17:01:57,523 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 17:01:57,597 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:01:57,597 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:02:00,649 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 17:02:03,685 Web_Key_demo1.py quit INFO 退出浏览器
+2021-11-09 17:17:17,164 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 17:17:21,646 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 17:17:21,646 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 17:17:21,803 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 17:17:21,803 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 17:17:21,863 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:17:21,863 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:18:40,382 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 17:18:44,886 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 17:18:44,886 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 17:18:44,954 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 17:18:44,955 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 17:18:45,015 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:18:45,015 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:21:32,492 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 17:21:36,767 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 17:21:36,767 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 17:21:36,826 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 17:21:36,826 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 17:21:36,889 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:21:36,890 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:21:39,943 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 17:21:39,968 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 17:22:06,647 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 17:22:11,785 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 17:22:11,785 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 17:22:11,851 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 17:22:11,851 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 17:22:11,919 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:22:11,919 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:22:14,981 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 17:22:15,033 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 17:25:59,713 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 17:26:03,802 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 17:26:03,802 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 17:26:03,863 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 17:26:03,863 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 17:26:03,927 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:26:03,927 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:26:06,981 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 17:26:07,004 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 17:33:45,289 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 17:33:49,738 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 17:33:49,739 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 17:33:49,798 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 17:33:49,798 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 17:33:49,861 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:33:49,861 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:33:52,920 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 17:33:52,942 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 17:34:54,978 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 17:34:59,260 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 17:34:59,260 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 17:34:59,324 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 17:34:59,324 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 17:34:59,385 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:34:59,385 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:35:02,450 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 17:35:02,474 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 17:37:59,462 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 17:38:03,884 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 17:38:03,884 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 17:38:03,944 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 17:38:03,944 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 17:38:04,004 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:38:04,004 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:38:07,062 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 17:38:07,085 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 17:38:10,088 Web_Key_demo1.py quit INFO 退出浏览器
+2021-11-09 17:38:13,384 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 17:38:17,752 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 17:38:17,752 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 17:38:17,814 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 17:38:17,815 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 17:38:17,877 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:38:17,877 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 17:38:20,930 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 17:38:20,953 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 17:38:23,965 Web_Key_demo1.py quit INFO 退出浏览器
+2021-11-09 18:54:17,781 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 18:54:22,333 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 18:54:22,333 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 18:54:22,435 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 18:54:22,452 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 18:54:22,515 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 18:54:22,516 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 18:54:25,574 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 18:54:25,599 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 18:54:28,606 Web_Key_demo1.py quit INFO 退出浏览器
+2021-11-09 18:55:01,450 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 18:55:06,033 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 18:55:06,033 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 18:55:06,106 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 18:55:06,106 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 18:55:06,170 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 18:55:06,170 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 18:55:09,231 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 18:55:09,255 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 18:55:12,268 Web_Key_demo1.py quit INFO 退出浏览器
+2021-11-09 18:55:15,540 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 18:55:20,319 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 18:55:20,319 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 18:55:20,378 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 18:55:20,378 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 18:55:20,437 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 18:55:20,437 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 18:55:23,490 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 18:55:26,527 Web_Key_demo1.py quit INFO 退出浏览器
+2021-11-09 22:14:01,100 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 22:14:05,599 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 22:14:05,599 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 22:14:05,693 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 22:14:05,693 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 22:14:05,764 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 22:14:05,765 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 22:14:08,829 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 22:14:08,855 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 22:15:19,369 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 22:15:23,906 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 22:15:23,906 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 22:15:23,996 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 22:15:23,996 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 22:15:24,065 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 22:15:24,065 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 22:15:27,126 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 22:15:27,150 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 22:20:57,155 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 22:21:04,847 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 22:21:04,847 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 22:21:04,936 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 22:21:04,936 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 22:21:04,997 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 22:21:04,997 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 22:21:08,058 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 22:21:08,082 Web_Key_demo1.py assert_text INFO 断言失败，实际结果为：退出
+2021-11-09 22:21:11,090 Web_Key_demo1.py quit INFO 退出浏览器
+2021-11-09 22:21:14,619 Web_Key_demo1.py url INFO 打开网址http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2021-11-09 22:21:19,691 Web_Key_demo1.py input INFO 这是name定位,定位元素accounts,输入信息yangshulin
+2021-11-09 22:21:19,691 Web_Key_demo1.py location INFO 这是name定位,定位元素accounts
+2021-11-09 22:21:19,782 Web_Key_demo1.py input INFO 这是name定位,定位元素pwd,输入信息123456
+2021-11-09 22:21:19,783 Web_Key_demo1.py location INFO 这是name定位,定位元素pwd
+2021-11-09 22:21:19,846 Web_Key_demo1.py click INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 22:21:19,846 Web_Key_demo1.py location INFO 这是xpath定位,定位元素//button[@class="am-btn am-btn-primary am-radius am-btn-sm btn-loading-example"]
+2021-11-09 22:21:22,904 Web_Key_demo1.py location INFO 这是link text定位,定位元素退出
+2021-11-09 22:21:25,935 Web_Key_demo1.py quit INFO 退出浏览器

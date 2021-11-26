@@ -1,0 +1,5 @@
+#字典复合写法
+key1:
+  key1.1: value1.1
+key2:
+  key2.1: value2.2
